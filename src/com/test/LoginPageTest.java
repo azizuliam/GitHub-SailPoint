@@ -2,14 +2,19 @@ package com.test;
 
 public class LoginPageTest {
 	
-	public void test1() {
-		
-		System.out.println("Test1----------------------LP");
-		
-	}
-	public void test2a() {
-		
-		System.out.println("Test2--------------------Logon page");
-	}
+public static void main(String[] args) {
+	
+	
+	int a=20;
+	int b=40;
+	int c=a+b;
+	
+	String fname="Md";
+	String lname="Hoque";
+	String name=fname+ " " + lname;
+	System.out.println(c);
+	System.out.println(name);
+}
+	
 
 }
