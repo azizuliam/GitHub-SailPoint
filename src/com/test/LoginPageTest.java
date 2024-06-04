@@ -7,5 +7,9 @@ public class LoginPageTest {
 		System.out.println("Test1----------------------LP");
 		
 	}
+	public void test2a() {
+		
+		System.out.println("Test2--------------------Logon page");
+	}
 
 }
